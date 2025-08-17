@@ -1,0 +1,9 @@
+[submodule "language-translator"]
+	path = language-translator
+	url = https://github.com/Hari-raju/CodeClauseInternship_Translator.git
+[submodule "pdf-reader"]
+	path = pdf-reader
+	url = https://github.com/Hari-raju/CodeClauseInternship_Pdf_Reader.git
+[submodule "bar-code-scanner"]
+	path = bar-code-scanner
+	url = https://github.com/Hari-raju/CodeClauseInternship_QR_Scanners.git
